@@ -1,1 +1,2 @@
-One of the operating system functions is memory managment. This is just one of the many things an operating system does. An operating system is also the software that performs the basic tasks like file management, process management,and handling of the input and output 
+One of the operating system functions is memory managment. This is just one of the many things an operating system does. An operating system is also the software that performs the basic tasks. 
+Another function that an operating system does is file management. This is the software that manages your data files in your computer. It has limited space and is designed to manage individual or group files, like documents.
